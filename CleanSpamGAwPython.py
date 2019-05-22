@@ -794,7 +794,6 @@ gaPVAllYearsCleanLandingPagePath = pd.read_csv("gaPVAllYearsCLPP.csv", sep=";", 
 gaPVAllYearsCleanLandingPagePath.dtypes
 gaPVAllYearsCleanLandingPagePath.count()  #72821 enregistrements 
 gaPVAllYearsCleanLandingPagePath.head(20)
-##############################################################################
 
 ##########################################################################
 # Jeu de données nettoyé
